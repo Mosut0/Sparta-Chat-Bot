@@ -16,6 +16,7 @@ Supported file extensions:
 - .png - Portable Network Graphics
 - .ppt, .pptm, .pptx - Microsoft PowerPoint
 - .json - JavaScript Object Notation
+
 [Referenced from LlamaIndex SimpleDirectoryReader](https://docs.llamaindex.ai/en/stable/module_guides/loading/simpledirectoryreader/)
  
 # Install required modules
